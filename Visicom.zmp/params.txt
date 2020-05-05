@@ -2,9 +2,9 @@
 [PARAMS]
 pnum=174
 GUID={63862E5D-09F2-4732-9D21-6350124302CB}
-ParentSubMenu_ru=Городские и универсальные\Россия и сосединие страны
-ParentSubMenu_uk=Міські та універсальні\Росія і сусідні країни
-ParentSubMenu=City\Russia and neighboring countries
+ParentSubMenu_ru=Городские и универсальные\Россия и соседние страны
+ParentSubMenu_uk=Міські та універсальні\Україна та сусідні країни
+ParentSubMenu=City\ex-USSR
 name_ru=Visicom.ua - Карта Украины и Белоруссии
 name_uk=Visicom.ua - Карта України та Білорусії
 name=Visicom.ua - Map of Ukraine and Belarus

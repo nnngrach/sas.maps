@@ -3,8 +3,8 @@
 pnum=36
 GUID={1B680F1C-AA42-4C17-AE06-B89273ACA59E}
 ParentSubMenu_ru=Исторические\Россия и соседние страны
-ParentSubMenu_uk=Історичні\Росія і сусідні країни
-ParentSubMenu=Historic\Russia and neighboring countries
+ParentSubMenu_uk=Історичні\Україна та сусідні країни
+ParentSubMenu=Historic\ex-USSR
 name_ru=Трехверстная военно-топографическая карта Европейской России (boxpis.ru)
 name_uk=Трехверстная військово-топографічна карта Європейської Росії (boxpis.ru)
 name=Europena part of Russia 3-ver. (boxpis.ru)

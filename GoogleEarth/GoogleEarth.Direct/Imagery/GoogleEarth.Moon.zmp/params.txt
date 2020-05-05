@@ -2,6 +2,7 @@
 pnum=1004
 GUID={F48E461B-8670-4C6A-B43E-E51C96AE79D2}
 ParentSubMenu_ru=Космос
+ParentSubMenu_uk=Космос
 ParentSubMenu=Space
 name_ru=Луна - кэш GoogleEarth
 name=Moon - GoogleEarth Cache
