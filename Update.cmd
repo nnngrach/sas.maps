@@ -3,7 +3,7 @@
 set maps_dir=sas.maps
 set maps_url="https://github.com/sasgis/sas.maps"
 
-git fetch --verbose %maps_url%
+git status
 
 echo %ERRORLEVEL%
 
@@ -14,7 +14,7 @@ if ERRORLEVEL -1 goto CloneRepo
 
 goto err
 
-:CloneRepo    
+:CloneRepo
     echo Делаем клон репозитория с сервера
     rd /s /q %maps_dir%
     git clone %maps_url% %maps_dir%
@@ -31,6 +31,7 @@ goto err
  
 :UpdateRepo
     echo Обновляем файлы до последней версии
+    git fetch --all --verbose
     git clean -d -x --force
     git reset --hard origin/master
     goto end
