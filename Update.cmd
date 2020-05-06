@@ -31,8 +31,8 @@ goto err
  
 :UpdateRepo
     echo Обновляем файлы до последней версии
-    git clean -d --force
-    git reset --hard
+    git clean -d -x --force
+    git reset --hard origin/master
     goto end
     
 :err
