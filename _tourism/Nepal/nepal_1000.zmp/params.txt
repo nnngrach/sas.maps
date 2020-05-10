@@ -1,0 +1,14 @@
+﻿[PARAMS]
+GUID={3dd41de1-5212-46c9-9920-57fd07d27ab3}
+ParentSubMenu_ru=Туристические\Непал
+ParentSubMenu_uk=Туристичний\Непал
+ParentSubMenu=Hike\Nepal
+
+name_ru=Непал 1000м
+name_uk=Непал 1000м
+name=Nepal 1000m
+
+NameInCache=nepal_1km
+DefURLBase=https://maps.melda.ru/pub/tourism/nepal.1km/{z}/{x}/{y}.jpg
+ContentType=image/jpeg
+EPSG=3785
