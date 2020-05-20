@@ -6,9 +6,9 @@ ParentSubMenu_ru=Геологические
 ParentSubMenu_uk=Геологічний
 ParentSubMenu=Geology
 
-name_ru=Vsegei.ru
-name_uk=Vsegei.ru
-name=Vsegei.ru
+name_ru=Геология 1mln 
+name_uk=Геология 1mln 
+name=Geology 1mln
 
 NameInCache=Geology_Vsegei
 asLayer=0
